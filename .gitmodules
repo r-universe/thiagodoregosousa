@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "bgev"]
 	path = bgev
-	url = https://github.com/cran/bgev
+	url = https://github.com/thiagodoregosousa/bgev
