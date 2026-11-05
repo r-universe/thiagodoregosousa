@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "GEVStableGarch"]
+	path = GEVStableGarch
+	url = https://github.com/thiagodoregosousa/gevstablegarch
 [submodule "bgev"]
 	path = bgev
 	url = https://github.com/thiagodoregosousa/bgev
